@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **celsofilho82/celsofilho82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Celso Ribeiro :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-ribeiro-45589141/)](https://www.linkedin.com/in/celso-ribeiro-45589141/)
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is Celso Ribeiro and:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with Web development
+ - 📚 Currently studying Java and Angular
+ - 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com/en)
