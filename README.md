@@ -25,4 +25,4 @@ My name is Celso Ribeiro and:
  - 😄 I really like to learn
  - 📊 I'm working with Web development
  - 📚 Currently studying Java and Angular
- - 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com/en)
+ - 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com)
