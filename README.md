@@ -34,9 +34,5 @@ My name is Celso Ribeiro and:
        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsofilho82&hide=css,html&layout=compact" /></td>
        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=celsofilho82&count_private=true" /></td>
    </tr>
-   <tr>
-       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=celsofilho82&repo=Spring&layout=compact" /></td>
-       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=celsofilho82&repo=Angular&layout=compact" /></td>
-   </tr>  
  </table>
 </center>
