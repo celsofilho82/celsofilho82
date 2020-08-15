@@ -23,6 +23,20 @@ Here are some ideas to get you started:
 My name is Celso Ribeiro and:
 
  - 😄 I really like to learn
+ 
  - 📊 I'm working with Web Development
+ 
  - 📚 Currently studying Java, Spring and Angular
+ 
  - 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com)
+
+ - ✨ My contributions:
+
+<center>
+ <table>
+   <tr>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsofilho82&hide=css,html&layout=compact" /></td>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=celsofilho82&count_private=true" /></td>
+   </tr>   
+ </table>
+</center>
