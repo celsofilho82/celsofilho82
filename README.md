@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 My name is Celso Ribeiro and:
 
-- 😄 I really like to learn
-- 📊 I'm working with Web Development 
-- 📚 Currently studying Java, Spring and Angular
-- 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com)
+- 😄 I really like to learn.
+- 📊 I'm working with Web Development. 
+- 📚 Currently studying Java, Spring and Ruby on Rails.
+- 🔭 I’m currently working on [AutoSeg](https://www.autoseg.com).
 
 ✨ My contributions:
 <center>
