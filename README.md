@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Celso Ribeiro :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-ribeiro-45589141/)](https://www.linkedin.com/in/celso-ribeiro-45589141/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-ribeiro-45589141/)](https://www.linkedin.com/in/celso-ribeiro-filho/)
 
 ### Hellooo! 👋 Welcome to my profile
 
