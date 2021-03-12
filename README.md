@@ -24,7 +24,7 @@ My name is Celso Ribeiro and:
 
 - 😄 I really like to learn.
 - 📊 I'm working with Web Development. 
-- 📚 Currently studying Java, Spring and Ruby on Rails.
+- 📚 Currently studying Java, Spring and Design Patterns
 
 ✨ My contributions:
 <center>
